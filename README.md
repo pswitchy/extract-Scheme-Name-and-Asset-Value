@@ -17,3 +17,9 @@ The script I created downloads the data from the AMFI website, extracts the Sche
 4. **Analysis-ready**: Many data analysis tools and libraries can directly import JSON data with proper structure.
 
 5. **Additional metadata**: JSON allows for adding metadata fields without disrupting the core data structure.
+
+## Output
+
+**amfi_nav_data  in both tsv and json format**
+
+
